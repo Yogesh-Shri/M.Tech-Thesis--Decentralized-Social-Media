@@ -1,1 +1,1 @@
-# M.Tech-Thesis--Decentralized-Social-Media
+# M.Tech-Thesis-Decentralized-Social-Media
